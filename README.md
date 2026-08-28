@@ -18,12 +18,4 @@ npm run dev
 
 ---
 
-### 🔑 Sonraki Adım
-- Dosyayı kaydet.  
-- Git ile commit et:  
-  ```bash
-  git add README.md
-  git commit -m "README.md dosyası düzenlendi"
-  git push
-
 
