@@ -2,20 +2,18 @@
 import { Link } from 'react-router-dom';
 import { useFetch } from '../hooks/useFetch';
 import { useFavorites, type Movie } from '../context/FavoritesContext';
+import LoadingSpinner from '../components/LoadingSpinner';
+import ErrorMessage from '../components/ErrorMessage';
 
 export default function AnaSayfa() {
   const { data: movies, loading, error, refetch } = useFetch<Movie[]>('/movies.json');
   const { addFavorite, removeFavorite, isFavorite } = useFavorites();
 
-  if (loading) return <div className="text-center py-12 text-lg">⏳ Yükleniyor...</div>;
-  if (error) return (
-    <div className="text-center py-12 text-red-500">
-      <p className="mb-4">Hata: {error}</p>
-      <button onClick={refetch} className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">
-        Tekrar Dene 🔄
-      </button>
-    </div>
-  );
+  // 1. Loading Durumu ->Görsel Spinner Gösterimi
+  if (loading) return <LoadingSpinner />;
+
+  // Hata ->Tekrar dene
+  if (error) return <ErrorMessage message={error} onRetry={refetch} />;
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-6">
