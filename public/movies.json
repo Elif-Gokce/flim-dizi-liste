@@ -162,16 +162,7 @@
     "vote_average": 8.2,
     "overview": "Kimliği ortaya çıkan Peter Parker, Doctor Strange'den yardım ister ancak çoklu evren tehlikeye girer."
   },
-  {
-    "id": 17,
-    "title": "Doctor Strange",
-    "year": 2016,
-    "release_date": "2016",
-    "poster": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=500",
-    "poster_path": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=500",
-    "vote_average": 7.5,
-    "overview": "Kaza geçiren yetenekli bir cerrah, mistik sanatları öğrenerek dünyanın koruyucusu olur."
-  },
+  
   {
     "id": 18,
     "title": "Black Panther",
