@@ -1,6 +1,7 @@
 import { useParams } from 'react-router-dom';
 import { useFetch } from '../hooks/useFetch';
 import { useFavorites,type Movie}from '../context/FavoritesContext';
+import Yorumlar from '../components/Yorumlar';
 
 interface FullMovie extends Movie {
   overview: string;
@@ -29,6 +30,15 @@ export default function UrunDetay() {
       <button onClick={() => favorite ? removeFavorite(movie.id) : addFavorite(movie)}>
         {favorite ? 'İzleme Listesinden Çıkar ❌' : 'İzleme Listesine Ekle ⭐'}
       </button>
+      <div>
+
+      <Yorumlar  />
+    </div>
+
     </div>
   );
+ 
+
+
+
 }
