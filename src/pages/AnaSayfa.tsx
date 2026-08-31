@@ -6,7 +6,7 @@ import LoadingSpinner from '../components/LoadingSpinner';
 import ErrorMessage from '../components/ErrorMessage';
 
 export default function AnaSayfa() {
-  const { data: movies, loading, error, refetch } = useFetch<Movie[]>('/movies.json');
+  const { data: movies, loading, error, refetch } = useFetch<Movie[]>(`${import.meta.env.BASE_URL}movies.json`);
   const { addFavorite, removeFavorite, isFavorite } = useFavorites();
 
   // 1. Loading Durumu ->Görsel Spinner Gösterimi
