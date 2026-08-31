@@ -1,0 +1,205 @@
+
+
+
+  [
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "release_date": "2010",
+    "poster": "https://upload.wikimedia.org/wikipedia/tr/9/94/Ba%C5%9Flang%C4%B1%C3%A7.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "poster_path": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500",
+    "vote_average": 8.8,
+    "overview": "Hırsız Dom Cobb, insanların rüyalarına girerek bilinçaltındaki en derin sırları çalar."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "year": 2014,
+    "release_date": "2014",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500",
+    "vote_average": 8.6,
+    "overview": "Bir grup kaşif, insanlığın yaşamını sürdürebilmesi için bir solucan deliğinden geçerek yeni dünyalar arar."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "release_date": "2008",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500",
+    "vote_average": 9.0,
+    "overview": "Batman, Joker'in Gotham kentinde yarattığı kaos ve anarşiyi durdurmak zorundadır."
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "release_date": "1999",
+    "poster": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500",
+    "vote_average": 8.7,
+    "overview": "Bir bilgisayar programcısı olan Neo, yaşadığı gerçekliğin aslında bir simülasyon olduğunu keşfeder."
+  },
+  {
+    "id": 5,
+    "title": "Fight Club",
+    "year": 1999,
+    "release_date": "1999",
+    "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500",
+    "vote_average": 8.8,
+    "overview": "Uykusuzluk çeken bir büro çalışanı ve karizmatik bir sabun satıcısı yeraltı dövüş kulübü kurar."
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "release_date": "1994",
+    "poster": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=500",
+    "vote_average": 8.8,
+    "overview": "Düşük IQ'lu ama iyi yürekli Forrest Gump, tarihi olayların ortasında ilham verici bir yaşam sürer."
+  },
+  {
+    "id": 7,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "release_date": "1994",
+    "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500",
+    "vote_average": 9.3,
+    "overview": "Haksız yere müebbet hapse mahkum edilen bir bankacı, cezaevinde umut ve dostluk inşa eder."
+  },
+  {
+    "id": 8,
+    "title": "The Godfather",
+    "year": 1972,
+    "release_date": "1972",
+    "poster": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=500",
+    "vote_average": 9.2,
+    "overview": "Organize suç ailesinin yaşlanan lideri, imparatorluğunun kontrolünü isteksiz oğluna devreder."
+  },
+  {
+    "id": 9,
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "release_date": "1974",
+    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500",
+    "vote_average": 9.0,
+    "overview": "Vito Corleone'nin yükselişi ve oğlu Michael'ın aile imparatorluğunu genişletme mücadelesi."
+  },
+  {
+    "id": 10,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "release_date": "1994",
+    "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=500",
+    "vote_average": 8.9,
+    "overview": "Los Angeles yeraltı dünyasından tetikçilerin, boksörün ve gangsterlerin kesişen öyküleri."
+  },
+  {
+    "id": 11,
+    "title": "Gladiator",
+    "year": 2000,
+    "release_date": "2000",
+    "poster": "https://images.unsplash.com/photo-1568876694728-451bbf694b83?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1568876694728-451bbf694b83?w=500",
+    "vote_average": 8.5,
+    "overview": "İhanete uğrayan Romalı bir general, köleleştirilir ve intikam için bir gladyatör olarak yükselir."
+  },
+  {
+    "id": 12,
+    "title": "Titanic",
+    "year": 1997,
+    "release_date": "1997",
+    "poster": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=500",
+    "vote_average": 7.9,
+    "overview": "Farklı toplumsal sınıflardan iki gencin talihsiz Titanik gemisindeki unutulmaz aşk hikayesi."
+  },
+  {
+    "id": 13,
+    "title": "Avatar",
+    "year": 2009,
+    "release_date": "2009",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500",
+    "vote_average": 7.9,
+    "overview": "Pandora gezegenine gönderilen felçli bir deniz piyadesi, yerel halk ile emirleri arasında kalır."
+  },
+  {
+    "id": 14,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "release_date": "2019",
+    "poster": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?w=500",
+    "vote_average": 8.4,
+    "overview": "Thanos'un yıkımından sonra hayatta kalan Yenilmezler, evreni eski haline getirmek için bir araya gelir."
+  },
+  {
+    "id": 15,
+    "title": "Iron Man",
+    "year": 2008,
+    "release_date": "2008",
+    "poster": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500",
+    "vote_average": 7.9,
+    "overview": "Zengin bir sanayici, esir tutulduktan sonra zırhlı bir takım elbise inşa ederek dünyayı korur."
+  },
+  {
+    "id": 16,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "release_date": "2021",
+    "poster": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?w=500",
+    "vote_average": 8.2,
+    "overview": "Kimliği ortaya çıkan Peter Parker, Doctor Strange'den yardım ister ancak çoklu evren tehlikeye girer."
+  },
+  {
+    "id": 17,
+    "title": "Doctor Strange",
+    "year": 2016,
+    "release_date": "2016",
+    "poster": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=500",
+    "vote_average": 7.5,
+    "overview": "Kaza geçiren yetenekli bir cerrah, mistik sanatları öğrenerek dünyanın koruyucusu olur."
+  },
+  {
+    "id": 18,
+    "title": "Black Panther",
+    "year": 2018,
+    "release_date": "2018",
+    "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500",
+    "vote_average": 7.3,
+    "overview": "T'Challa, Wakanda kralı olarak tahta çıkar ve krallığını iç ile dış tehditlere karşı savunur."
+  },
+  {
+    "id": 19,
+    "title": "Joker",
+    "year": 2019,
+    "release_date": "2019",
+    "poster": "https://images.unsplash.com/photo-1563089145-599997674d42?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1563089145-599997674d42?w=500",
+    "vote_average": 8.4,
+    "overview": "Toplum tarafından dışlanan başarısız komedyen Arthur Fleck, yavaş yavaş şiddet dolu bir kaosa sürüklenir."
+  },
+  {
+    "id": 20,
+    "title": "Parasite",
+    "year": 2019,
+    "release_date": "2019",
+    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500",
+    "poster_path": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500",
+    "vote_average": 8.5,
+    "overview": "Yoksul bir aile, varlıklı bir ailenin evine birer birer hizmetkar olarak sızar."
+  }
+]
